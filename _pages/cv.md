@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master in Economics, Universidad de San Andrés. Buenos Aires, Argentina, 2023 (expected).
+* Master of Development Policy, KDI School of Public Policy and Management. Sejong-si, Republic of Korea, 2016.
+* Licentiate in Economics, National Autonomous University of Nicaragua. León, Nicaragua, 2010.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Central Bank of Nicaragua. Managua, Nicaragua. November 2020 – Febrary 2022.
+  * Financial Analysis Specialist I. Financial Analysis Department, Economic Studies Division.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Central Bank of Nicaragua. Managua, Nicaragua. January 2016 – November 2020.
+  * Sectoral Economist I. Macroeconomic Analysis Department, Economic Studies Division.                               
+                          
+* Korea Institute for International Economic Policy. Sejong-si, Republic of Korea. June – September 2015.
+  * Economic Consultant.
+
+* Central Bank of Nicaragua. Managua, Nicaragua. March 2011 – January 2015.
+  * Professional in Economics I. Economic Statistics Department, Economic Division.                
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language:
+  * Spanish, native language
+  * English, proficient
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* Software:
+  * Microsoft Office
+  * LaTex
+  * R 
+
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* National University of Engineering. Managua, Nicaragua. October 2018 – Febrary 2022.
+  * Central Bank Undergraduate Professor of Economics.         
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
